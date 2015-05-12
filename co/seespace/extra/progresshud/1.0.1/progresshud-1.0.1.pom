@@ -10,18 +10,18 @@
     <dependency>
       <groupId>co.seespace</groupId>
       <artifactId>inair</artifactId>
-      <version>0.7.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jdeferred</groupId>
-      <artifactId>jdeferred-android-aar</artifactId>
-      <version>1.2.3</version>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.jdeferred</groupId>
       <artifactId>jdeferred-core</artifactId>
+      <version>1.2.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jdeferred</groupId>
+      <artifactId>jdeferred-android-aar</artifactId>
       <version>1.2.3</version>
       <scope>compile</scope>
     </dependency>

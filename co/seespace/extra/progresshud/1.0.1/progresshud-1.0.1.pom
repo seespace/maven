@@ -8,7 +8,7 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>workspace-publish</groupId>
+      <groupId>co.seespace</groupId>
       <artifactId>inair</artifactId>
       <version>0.7.0</version>
       <scope>compile</scope>

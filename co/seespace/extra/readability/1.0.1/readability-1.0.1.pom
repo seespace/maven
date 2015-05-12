@@ -8,15 +8,15 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>workspace-publish</groupId>
-      <artifactId>inair</artifactId>
-      <version>0.7.0</version>
+      <groupId>co.seespace</groupId>
+      <artifactId>progresshud</artifactId>
+      <version>1.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>workspace-publish</groupId>
-      <artifactId>progresshud</artifactId>
-      <version>1.0.1</version>
+      <groupId>co.seespace</groupId>
+      <artifactId>inair</artifactId>
+      <version>0.7.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

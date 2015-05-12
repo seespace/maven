@@ -8,7 +8,7 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>co.seespace</groupId>
+      <groupId>co.seespace.extra</groupId>
       <artifactId>progresshud</artifactId>
       <version>1.0.1</version>
       <scope>compile</scope>
